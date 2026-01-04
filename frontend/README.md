@@ -1,14 +1,3 @@
-Perfect 👍
-Below is a **clean, professional Frontend README** you can place at:
-
-```
-frontend/deepantechjournal-practice-frontend/README.md
-```
-
-It matches your backend README style and is **portfolio + recruiter ready**.
-
----
-
 # DeepanTechJournal Practice Web – Frontend
 
 A modern **React-based frontend** built for practicing **UI automation, API testing, and full-stack testing workflows**.
