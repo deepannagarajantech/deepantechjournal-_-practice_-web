@@ -95,7 +95,6 @@ Complex UI interactions:
 - Mouse hover effects
 - Context menus
 
-<<<<<<< HEAD
 #### 🎯 LocatorLab (NEW!)
 Comprehensive locator practice playground for Selenium and Playwright:
 
@@ -128,8 +127,6 @@ Comprehensive locator practice playground for Selenium and Playwright:
 - Quick reference cheat sheet
 - Best practices guide
 
-=======
->>>>>>> 235367f3a392d8e873f18edbc67545ef869019d9
 #### 🌐 ApiLab
 API testing playground:
 - GET, POST, PUT, DELETE operations
@@ -160,7 +157,7 @@ Security testing scenarios:
 ## 📚 Documentation
 
 - [Backend Documentation](./deepantechjournal-practice-backend/README.md)
-- [Frontend Documentation](./frontend/deepantechjournal-practice-frontend/README.md)
+- [Frontend Documentation](./README.md)
 
 ## 🔌 API Endpoints
 
@@ -227,7 +224,6 @@ This application is designed as a testing playground. You can:
 4. **Database Testing**: Validate data integrity and query results
 5. **Performance Testing**: Load test the application endpoints
 
-<<<<<<< HEAD
 ### 🎯 Locator Practice Lab - Quick Start Guide
 
 The **Locator Lab** (`http://localhost:5173/lab/locators`) provides comprehensive practice for mastering locator strategies.
@@ -370,7 +366,6 @@ $$(".box:first-child")
 - Use fragile selectors that break with UI changes
 
 =======
->>>>>>> 235367f3a392d8e873f18edbc67545ef869019d9
 ## 📝 Default Credentials
 
 For testing purposes, you can register a new user or use default credentials if seeded.
