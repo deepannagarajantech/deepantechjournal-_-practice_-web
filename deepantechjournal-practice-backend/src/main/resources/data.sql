@@ -1,0 +1,4 @@
+INSERT INTO CATEGORIES (id, name, createdAt) VALUES 
+ (RANDOM_UUID(), 'Electronics', CURRENT_TIMESTAMP()),
+ (RANDOM_UUID(), 'Books', CURRENT_TIMESTAMP());
+
