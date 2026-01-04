@@ -160,7 +160,7 @@ Security testing scenarios:
 ## 📚 Documentation
 
 - [Backend Documentation](./deepantechjournal-practice-backend/README.md)
-- [Frontend Documentation](./frontend/deepantechjournal-practice-frontend/README.md)
+- [Frontend Documentation](./README.md)
 
 ## 🔌 API Endpoints
 
